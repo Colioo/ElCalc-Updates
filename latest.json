@@ -1,7 +1,7 @@
 {
   "channel": "beta",
-  "version": "0.1.1-beta.1",
-  "downloadUrl": "https://github.com/Colioo/ElCalc-Updates/releases/download/v0.1.1-beta.1/ElCalc_0.1.1_x64-setup.exe",
-  "releaseUrl": "https://github.com/Colioo/ElCalc-Updates/releases/tag/v0.1.1-beta.1",
+  "version": "0.1.2-beta.1",
+  "downloadUrl": "https://github.com/Colioo/ElCalc-Updates/releases/download/v0.1.2-beta.1/ElCalc_0.1.2_x64-setup.exe",
+  "releaseUrl": "https://github.com/Colioo/ElCalc-Updates/releases/tag/v0.1.2-beta.1",
   "mandatory": false
 }
